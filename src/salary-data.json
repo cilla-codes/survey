@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": "4/24/2019 11:43:21",
+    "age": "35-44",
+    "industry": "Government",
+    "jobTitle": "Talent Management Asst. Director",
+    "annualSalary": "75000",
+    "currency": "USD",
+    "location": "Nashville, TN",
+    "workExperience": "11 - 20 years",
+    "jobTitleContext": "",
+    "otherCurrency": ""
+  },
+  {
+    "timestamp": "4/24/2019 11:43:26",
+    "age": "25-34",
+    "industry": "Environmental nonprofit",
+    "jobTitle": "Operations Director",
+    "annualSalary": "65,000",
+    "currency": "USD",
+    "location": "Madison, Wi",
+    "workExperience": "8 - 10 years",
+    "jobTitleContext": "",
+    "otherCurrency": ""
+  },
+  {
+    "timestamp": "4/24/2019 11:43:27",
+    "age": "18-24",
+    "industry": "Market Research",
+    "jobTitle": "Market Research Assistant",
+    "annualSalary": "36,330",
+    "currency": "USD",
+    "location": "Las Vegas, NV",
+    "workExperience": "2 - 4 years",
+    "jobTitleContext": "",
+    "otherCurrency": ""
+  },
+  {
+    "timestamp": "4/24/2019 11:43:27",
+    "age": "25-34",
+    "industry": "Biotechnology",
+    "jobTitle": "Senior Scientist",
+    "annualSalary": "34600",
+    "currency": "GBP",
+    "location": "Cardiff, UK",
+    "workExperience": "5-7 years",
+    "jobTitleContext": "",
+    "otherCurrency": ""
+  },
+  {
+    "timestamp": "4/24/2019 11:43:29",
+    "age": "25-34",
+    "industry": "Healthcare",
+    "jobTitle": "Social worker (embedded in primary care)",
+    "annualSalary": "55000",
+    "currency": "USD",
+    "location": "Southeast Michigan, USA",
+    "workExperience": "5-7 years",
+    "jobTitleContext": "",
+    "otherCurrency": ""
+  },
+  {
+    "timestamp": "4/24/2019 11:43:29",
+    "age": "25-34",
+    "industry": "Information Management",
+    "jobTitle": "Associate Consultant",
+    "annualSalary": "45,000",
+    "currency": "USD",
+    "location": "Seattle, WA",
+    "workExperience": "8 - 10 years",
+    "jobTitleContext": "",
+    "otherCurrency": ""
+  },
+  {
+    "timestamp": "4/24/2019 11:43:30",
+    "age": "25-34",
+    "industry": "Nonprofit",
+    "jobTitle": "Development Manager",
+    "annualSalary": "51,000",
+    "currency": "USD",
+    "location": "Dallas, Texas, United States",
+    "workExperience": "2 - 4 years",
+    "jobTitleContext": "I manage our fundraising department, primarily overseeing our direct mail, planned giving, and grant writing programs.",
+    "otherCurrency": ""
+  },
+  {
+    "timestamp": "4/24/2019 11:43:30",
+    "age": "25-34",
+    "industry": "Higher Education",
+    "jobTitle": "Student Records Coordinator",
+    "annualSalary": "54,371",
+    "currency": "USD",
+    "location": "Philadelphia",
+    "workExperience": "8 - 10 years",
+    "jobTitleContext": "equivalent to Assistant Registrar",
+    "otherCurrency": ""
+  },
+  {
+    "timestamp": "4/24/2019 11:43:34",
+    "age": "35-44",
+    "industry": "Libraries",
+    "jobTitle": "Director",
+    "annualSalary": "45000",
+    "currency": "USD",
+    "location": "Bridgeport, mi. Usa",
+    "workExperience": "8 - 10 years",
+    "jobTitleContext": "",
+    "otherCurrency": ""
+  },
+  {
+    "timestamp": "4/24/2019 11:43:35",
+    "age": "25-34",
+    "industry": "Business Services",
+    "jobTitle": "Copywriter",
+    "annualSalary": "80000",
+    "currency": "USD",
+    "location": "DC",
+    "workExperience": "11 - 20 years",
+    "jobTitleContext": "",
+    "otherCurrency": ""
+  }
+]
